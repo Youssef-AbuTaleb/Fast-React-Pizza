@@ -14,11 +14,11 @@
 - Users can mark thier order as priority even after it has been placed.
 
 ## Necessary Pages:
-1- HomePage "/"
-2- Pizza menu "/menu"
-3- Cart "/cart"
-4- Placing a new order "/order/new"
-5- Looking up an order "/order/:orderID"
+1. HomePage "/"
+2. Pizza menu "/menu"
+3. Cart "/cart"
+4. Placing a new order "/order/new"
+5. Looking up an order "/order/:orderID"
 
 ## Used Technologies:
 - Routing: React Router.
