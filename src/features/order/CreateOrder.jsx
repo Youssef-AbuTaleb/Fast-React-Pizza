@@ -103,9 +103,8 @@ export async function action({ request }) {
     errors.phone =
       "Please give us your correct phone number. We might need it to contact you.";
 
-  console.log(errors);
   // If everything is okay, create new order and redirect.
-  if (Object.keys(errors).length > 1) return errors;
+  if (Object.keys(errors).length > 0) return errors;
 
   const newOrder = await createOrder(order);
 
