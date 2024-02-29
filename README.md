@@ -1,5 +1,7 @@
 # Fast React Pizza
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://master--roaring-swan-0d87fe.netlify.app/)
+
 ## Description:
 - This application is created to help users order pizza from the menu by adding items to their cart.
 - Users should proceed to enter their data; no authentication is required (user name, phone number, and address).
